@@ -1,6 +1,0 @@
-* [Ask](https://abdullahi77f.github.io/Google-data-analytics-capstone-project//blob/main/file.md#ask)
-* [Section 2: Prepare](https://abdullahi77f.github.io/Google-data-analytics-capstone-project//blob/main/file.md#section-2-prepare)
-* [Section 3: Process](https://abdullahi77f.github.io/Google-data-analytics-capstone-project//blob/main/file.md#section-3-process)
-* [Section 4: Analyze](https://abdullahi77f.github.io/Google-data-analytics-capstone-project//blob/main/file.md#section-4-analyze)
-* [Section 5: Share](https://abdullahi77f.github.io/Google-data-analytics-capstone-project//blob/main/file.md#section-5-share)
-* [Section 5: Act](https://abdullahi77f.github.io/Google-data-analytics-capstone-project//blob/main/file.md#section-5-act)

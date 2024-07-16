@@ -2,12 +2,6 @@
 title: "Bike Share Data Analysis"
 author: "Abdullahi Faysal"
 date: "2024-05-21"
-output:
-  html_document: default
-  pdf_document: default
-editor_options:
-  markdown:
-    wrap: 72
 ---
 
 ```{r setup, include=FALSE}
